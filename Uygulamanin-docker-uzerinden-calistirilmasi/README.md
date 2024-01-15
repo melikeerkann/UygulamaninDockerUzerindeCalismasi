@@ -1,0 +1,1 @@
+# Uygulamanin-docker-uzerinden-calistirilmasi
